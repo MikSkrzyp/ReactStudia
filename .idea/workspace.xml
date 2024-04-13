@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7715989a-7063-4aad-b13c-738f2c750957" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/animals/src/AnimalShow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animals/src/img/bird.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animals/src/img/cat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animals/src/img/cow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animals/src/img/dog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animals/src/img/gator.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animals/src/img/heart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animals/src/img/horse.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsx/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/jsx/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsx/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsx/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsx/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsx/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsx/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/jsx/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsx/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsx/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsx/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdas" beforeDir="false" afterPath="$PROJECT_DIR$/pdas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdas/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/pdas/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdas/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/pdas/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdas/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdas/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/pdas/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdas/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdas/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdas/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pdas/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdas/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdas/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdas/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/jsx" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2dd79BfOTRx4wTKliSwm0r3jBVg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Mikolaj_2/Desktop/4semestr/React/Pics",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7715989a-7063-4aad-b13c-738f2c750957" name="Changes" comment="" />
+      <created>1710325950556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710325950556</updated>
+      <workItem from="1710325952067" duration="550000" />
+      <workItem from="1711535814739" duration="29000" />
+      <workItem from="1712741430325" duration="141000" />
+      <workItem from="1712741686524" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

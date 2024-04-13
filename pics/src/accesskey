@@ -1,0 +1,11 @@
+
+https://api.unsplash.com/
+
+HTTP AUTHROIZATION HEADER:
+Authorization: "Client-ID JJM6NYNXJDaQH3xDhjg8vr2QSLQNsNqqQhrO7NwkzbE"
+
+GET /search/photos
+
+query	Search terms.
+page	Page number to retrieve. (Optional; default: 1)
+per_page	Number of items per page. (Optional; default: 10)

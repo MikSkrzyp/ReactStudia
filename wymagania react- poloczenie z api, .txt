@@ -1,0 +1,1 @@
+wymagania react- poloczenie z api, wykorzystanie stanow proprsow, 2-3 komplementow - to na 4
